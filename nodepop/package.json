@@ -1,0 +1,14 @@
+{
+  "name": "nodepop",
+  "version": "1.0.0",
+  "description": "Proyecto Wallapop con Node.js",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
